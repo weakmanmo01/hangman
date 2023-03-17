@@ -1,0 +1,9 @@
+#middlebody{
+    display:flex;
+    flex-direction: row;
+
+}
+#lowerbody{
+    display:flex;
+    flex-direction:row;
+}
